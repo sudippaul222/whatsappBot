@@ -1,3 +1,4 @@
+const keep_alive = require('./keep_alive.js')
 const qrcode = require('qrcode-terminal');
 const axios = require ('axios');
 
